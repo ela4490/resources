@@ -1,2 +1,2 @@
 # Books
-List of Free Learning Resources for Programming
+List of Learning Resources for Programming
