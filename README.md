@@ -1,2 +1,2 @@
 # Resources
-List of Learning Resources for Software Developers
+This repository contains a list of Learning Resources for Software Developers. The books are available for easy reference and can be downloaded.
